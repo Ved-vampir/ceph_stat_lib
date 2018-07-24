@@ -5,10 +5,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
-	"bufio"
   	"log"
-  	"os"
 )
 
 type metric struct {
