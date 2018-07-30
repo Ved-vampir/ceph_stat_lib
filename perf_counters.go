@@ -1,5 +1,6 @@
-
 package perf_counters
+
+//Analyze data about performance counters, parse raw dump, filter it
 
 import (
 	"bytes"
